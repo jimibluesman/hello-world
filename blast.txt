@@ -1,2 +1,2 @@
-blast
-dingdong
+This is a test for a git push
+This is a second test for a git push
